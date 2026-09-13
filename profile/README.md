@@ -2,7 +2,12 @@
 
 ScotMesh is Scotland's off-grid radio mesh community. We run three networks side by side, **MeshCore**, **Meshtastic** and **Reticulum**, along with the tools and infrastructure that keep them going. Live tools and services are at **[scotmesh.net](https://scotmesh.net)**.
 
-### <img src="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/reticulum/mark-small.svg" width="20" alt=""> Reticulum
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/reticulum/lockup-stacked-on-dark.png">
+  <img src="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/reticulum/lockup-stacked-on-light.png" height="48" alt="scotmesh/reticulum">
+</picture>
+
+### Reticulum
 
 | Repo | What it is |
 | --- | --- |
@@ -12,11 +17,21 @@ ScotMesh is Scotland's off-grid radio mesh community. We run three networks side
 | [RNS_Over_Meshcore](https://github.com/ScotMesh/RNS_Over_Meshcore) | Carries Reticulum over existing MeshCore networks using binary payloads |
 | [rns.scotmesh.net](https://github.com/ScotMesh/rns.scotmesh.net) | The page for our public transport node, `rns.scotmesh.net:4242` |
 
-### <img src="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshcore/mark-small.svg" width="20" alt=""> MeshCore
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshcore/lockup-stacked-on-dark.png">
+  <img src="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshcore/lockup-stacked-on-light.png" height="48" alt="scotmesh/meshcore">
+</picture>
+
+### MeshCore
 
 Live network tools: [CoreScope](https://corescope.scotmesh.net), [Live Map](https://map.scotmesh.net), [HopReach coverage](https://coverage.scotmesh.net) and [HopReact alerts](https://alerts.scotmesh.net).
 
-### <img src="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshtastic/mark-small.svg" width="20" alt=""> Meshtastic
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshtastic/lockup-stacked-on-dark.png">
+  <img src="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshtastic/lockup-stacked-on-light.png" height="48" alt="scotmesh/meshtastic">
+</picture>
+
+### Meshtastic
 
 Setup guides are on the [community wiki](https://wiki.scotmesh.uk/en/Meshtastic/Meshtastic).
 
