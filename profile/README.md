@@ -40,7 +40,7 @@ Setup guides are on the [community wiki](https://wiki.scotmesh.uk/en/Meshtastic/
 | Repo | What it is |
 | --- | --- |
 | [scotmesh.net](https://github.com/ScotMesh/scotmesh.net) | The tools and services hub |
-| [branding](https://github.com/ScotMesh/branding) | Logo, colours, type and graphics for every platform |
+| [branding](https://github.com/ScotMesh/branding) | Logo, colours, type and graphics for every platform. Guidelines at [scotmesh.github.io/branding](https://scotmesh.github.io/branding/) |
 
 ### Join in
 
