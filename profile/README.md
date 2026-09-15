@@ -18,6 +18,7 @@ ScotMesh is Scotland's off-grid radio mesh community. We run three networks side
 | [rns.scotmesh.net](https://github.com/ScotMesh/rns.scotmesh.net) | The page for our public transport node, `rns.scotmesh.net:4242` |
 | [scotmesh-chat](https://github.com/ScotMesh/scotmesh-chat) | One Conversation, 3 doors |
 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshtastic/lockup-stacked-on-dark.png">
   <img src="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshtastic/lockup-stacked-on-light.png" height="48" alt="scotmesh/meshtastic">
@@ -25,8 +26,10 @@ ScotMesh is Scotland's off-grid radio mesh community. We run three networks side
 
 ### Meshtastic
 | Repo | What it is |
+| --- | --- |
 | [RepeaterTastic](https://github.com/ScotMesh/RepeaterTastic) | A Meshtastic hub with multi-radio, multi-identity, multi-mqtt, and plugin support |
 | [RepeaterTastic-MeshFlow](https://github.com/ScotMesh/repeatertastic-meshflow) | A RepeaterTastic plugin to publish to MeshFlow |
+
 Setup guides are on the [community wiki](https://wiki.scotmesh.uk/en/Meshtastic/Meshtastic).
 
 <picture>
