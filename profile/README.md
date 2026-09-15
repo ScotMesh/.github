@@ -19,6 +19,17 @@ ScotMesh is Scotland's off-grid radio mesh community. We run three networks side
 | [scotmesh-chat](https://github.com/ScotMesh/scotmesh-chat) | One Conversation, 3 doors |
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshtastic/lockup-stacked-on-dark.png">
+  <img src="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshtastic/lockup-stacked-on-light.png" height="48" alt="scotmesh/meshtastic">
+</picture>
+
+### Meshtastic
+| Repo | What it is |
+| [RepeaterTastic](https://github.com/ScotMesh/RepeaterTastic) | A Meshtastic hub with multi-radio, multi-identity, multi-mqtt, and plugin support |
+| [RepeaterTastic-MeshFlow](https://github.com/ScotMesh/repeatertastic-meshflow) | A RepeaterTastic plugin to publish to MeshFlow |
+Setup guides are on the [community wiki](https://wiki.scotmesh.uk/en/Meshtastic/Meshtastic).
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshcore/lockup-stacked-on-dark.png">
   <img src="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshcore/lockup-stacked-on-light.png" height="48" alt="scotmesh/meshcore">
 </picture>
@@ -27,14 +38,6 @@ ScotMesh is Scotland's off-grid radio mesh community. We run three networks side
 
 Live network tools: [CoreScope](https://corescope.scotmesh.net), [Live Map](https://map.scotmesh.net), [HopReach coverage](https://coverage.scotmesh.net) and [HopReact alerts](https://alerts.scotmesh.net).
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshtastic/lockup-stacked-on-dark.png">
-  <img src="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshtastic/lockup-stacked-on-light.png" height="48" alt="scotmesh/meshtastic">
-</picture>
-
-### Meshtastic
-
-Setup guides are on the [community wiki](https://wiki.scotmesh.uk/en/Meshtastic/Meshtastic).
 
 ### Everything else
 
