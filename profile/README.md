@@ -16,6 +16,7 @@ ScotMesh is Scotland's off-grid radio mesh community. We run three networks side
 | [microStore](https://github.com/ScotMesh/microStore) | Embedded key-value store used by the firmware, with QSPI flash support |
 | [RNS_Over_Meshcore](https://github.com/ScotMesh/RNS_Over_Meshcore) | Carries Reticulum over existing MeshCore networks using binary payloads |
 | [rns.scotmesh.net](https://github.com/ScotMesh/rns.scotmesh.net) | The page for our public transport node, `rns.scotmesh.net:4242` |
+| [scotmesh-chat](https://github.com/ScotMesh/scotmesh-chat) | One Conversation, 3 doors |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ScotMesh/branding/main/networks/meshcore/lockup-stacked-on-dark.png">
